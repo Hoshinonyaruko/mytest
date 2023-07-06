@@ -1,6 +1,8 @@
 # BetterQQNT-Adapter
 red-protocol simple onebot adapter
 
+没有公开源码是因为经过Betterqqnt作者microblock提醒，二次开发可能会带来不可控的风险。
+
 # BetterQQNT-Adapter-epl
 Red-Protcol的epl-adapter-demo,欢迎参考开发其他语言版本
 
