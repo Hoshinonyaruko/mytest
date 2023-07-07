@@ -16,7 +16,7 @@ Red-Protcol的epl-adapter-demo,欢迎参考开发其他语言版本
 
 # 操作【一】
 
-一加入bant频道获取 dll (https://t.me/betterqqnt)
+一加入bqnt频道获取 dll (https://t.me/betterqqnt)
 
 （不可以分发所以请自行在原项目仓库获取：https://github.com/BetterQQNT/BetterQQNT）
 
