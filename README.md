@@ -99,7 +99,7 @@ red ws://127.0.0.1:8080/onebot/v11/ws 7dcb37d1b0874368e0e21b3242e7d5084bd6851b84
 
 --------------本地地址--------------—
 
-真寻和nb2的ws地址应为:ws://地址:端口/onebot/v11/ws
+真寻和nb2的ws地址应为:ws://地址:8080/onebot/v11/ws
 
 Trss云崽ws地址应为:ws://地址:2536/go-cqhttp
 
