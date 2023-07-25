@@ -16,9 +16,11 @@ Red-Protcol的epl-adapter-demo,欢迎参考开发其他语言版本
 
 # 操作【一】
 
-一加入bqnt频道获取 dll (https://t.me/betterqqnt)
+一加入bqnt频道获取 dll https://t.me/betterqqnt
 
-（不可以分发所以请自行在原项目仓库获取：https://github.com/BetterQQNT/BetterQQNT）
+不可以分发所以请自行在原项目仓库获取：https://github.com/BetterQQNT/BetterQQNT
+
+因为某些原因()，bqnt的获取现在需要通过安装koishi、choronocat来使用，用koishi的chronocat/launcher启动后，绿灯状态，下方用法依然有效。
 
 一将 better-qqnt-x64.dll 重命名为 version.dll 并放入 QQNT 安装文件夹。
 
