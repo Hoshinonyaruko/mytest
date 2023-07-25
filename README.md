@@ -22,6 +22,8 @@ Red-Protcol的epl-adapter-demo,欢迎参考开发其他语言版本
 
 因为某些原因()，bqnt的获取现在需要通过安装koishi、choronocat来使用，用koishi的chronocat/launcher启动后，绿灯状态，下方用法依然有效。
 
+如果希望单独运行，不安装koishi也是可以的，你可以在npmjs搜索chronocat，找到choronocat/launcher，然后使用npm --save下载，然后使用-h参数运行相应平台可执行程序。
+
 一将 better-qqnt-x64.dll 重命名为 version.dll 并放入 QQNT 安装文件夹。
 
 一进入QQ在设置-插件 RedProtocol确认开启打勾
